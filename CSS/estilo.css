@@ -1,0 +1,157 @@
+
+body {
+      background-color: #ffffff;  
+}
+
+header{
+    background-color: #080436;
+    text-align: center;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+ 
+#titulo{
+    background-color: #020536;
+    color: #197569;
+    margin: 15px 0px;
+    font-size: 3em;
+    letter-spacing: .3rem;
+    text-shadow: 5px 1px 5px rgb(52, 84, 70); 
+}
+
+.img1{
+    float: right;
+margin-top: -18px;
+}
+
+.img2{
+    float: left;
+}
+
+.img3{
+    float: right;
+}
+
+.Seccion{
+    background-color: #0b1232;
+    color: #fff;
+    padding: 10px;
+    font-size: 1.5em;
+    border-radius: 5px; 
+}
+
+.inicio{
+font-size: large ;
+}
+
+h2{
+background-color: #063530; 
+ padding: 15px;
+ font-family: 'Segoe UI';
+ color: #ffffff;
+ border-radius: 8px;
+}
+
+h3{
+    font-style:oblique;
+    font-family: fantasy;
+}
+
+li {
+    font-size:large;
+}
+
+p{
+    font-size: large;
+}
+
+.pers {
+  background-color: #02290d; 
+color: #ffffff;
+border-radius: 8px;
+}
+
+#menuPrincipal {
+    background-color: #193e31;
+    padding: 9px;
+    border-radius: 8px;
+}
+            
+#menuPrincipal ul{
+    list-style: none;
+    padding: 0px;
+}
+
+#menuPrincipal li{
+    display: inline;
+    margin: 0px 15px;
+    border: solid;
+    border-color: rgb(11, 41, 111);
+    border-radius: 4px;
+    padding:15px ;
+    font-weight: bold;
+}
+
+#menuPrincipal li:hover{
+    background-color: rgb(11, 41, 111);
+    border: solid;
+    border-color: rgb(11, 41, 111);
+    border-radius: 4px;
+    padding:15px ;
+}
+
+.enlaceMenuPrincipal{
+    text-decoration: none;
+    color:#22cd8b;
+    padding: 10px 20px;  
+}
+    
+#Formulario{
+    text-align: justify;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 30px;
+    background-image: url("../img/2.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+
+#Texto{ 
+    width: 100%;
+    margin-bottom: 10px
+}
+
+footer{
+    background-color: #063530;
+    color: #ffffff;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+#pie ul{
+    list-style: none;
+    padding: 0px;
+}
+    
+#pie li{
+    display: inline-block;
+    margin-right:10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+    
+#pie a {
+    color: white;
+    text-decoration: none;
+}
+
+#pie a:hover {
+    color: #197569;
+}
+
+    
+        
